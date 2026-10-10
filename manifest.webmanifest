@@ -1,0 +1,36 @@
+{
+ "id": "/lodge-dashboards/",
+ "name": "Lodge Contendathon",
+ "short_name": "Lodge",
+ "start_url": "./",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#05091d",
+ "theme_color": "#05091d",
+ "icons": [
+  {
+   "src": "/contendathon-engine/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/contendathon-engine/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/contendathon-engine/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/contendathon-engine/icons/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
